@@ -8,14 +8,17 @@ echo. Loading...
 echo. #####
 timeout /t 1
 cls
+echo.
 echo. Loading...
 echo. ##################
 timeout /t 1
 cls
+echo.
 echo. Loading...
 echo. ##########################
 timeout /t 1
 cls
+echo.
 echo. Loading...
 echo. ########################################
 timeout /t 1
